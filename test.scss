@@ -1,0 +1,6 @@
+$heighlight-color: #F90;
+$border: 1px solid red;
+.test_variables{
+  color: $heighlight-color;
+  border: $border;
+}
