@@ -1,0 +1,4 @@
+$color: red !default;
+@mixin name {
+  border: 1px solid $color;
+}
