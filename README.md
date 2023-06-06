@@ -1,4 +1,7 @@
 # scss学习记录
+## Live Sass Compiler	
+vscode中实时编译scss文件为css文件：Live Sass Compiler插件is very goood.
+
 ## 变量
 ```scss
 $heighlight-color: #F90;
